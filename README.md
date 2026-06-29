@@ -47,46 +47,39 @@ The time format does not reset after 12 like a standard 12-hour clock. Instead, 
 <br/>
 
 
-
 ## Installation & Mail Setup
-
 
 ### Step 1: Install Python
 ```bash
 winget install Python.Python.3.12
 ```
-
 <br/>
 
+### Step 2: Download & Unzip the Folder
+Download the Velora folder (ZIP file) from the provided link.
+Once downloaded, right-click on the ZIP file and select **Extract All** (Windows) — choose a location such as your Desktop or Downloads folder, then click **Extract**.
+This will create a folder named `Velora` containing all the necessary files.
+<br/><br/>
 
-### Step 2
+### Step 3
 Open the Velora folder in any text editor (e.g., Notepad) and open `script4.py`.
 Inside the file, enter your **Email**, your **Email App Password**, and the **Email** address on which you receive the mail.
 Save the file and close the editor.
-
 > **Note:** Your Email's **2-Step Verification** must be turned **ON**. Only then will Google give you the option to generate an **App Password**.
-
 <br/>
-
-
-### Step 3
-Double-click on `Velora_Installer.bat` to run the installer.
-
-<br/>
-
 
 ### Step 4
-Delete the empty Velora folder from the location where it was originally placed.
-
+Double-click on `Velora_Installer.bat` to run the installer.
 <br/>
 
 ### Step 5
-Restart your computer and sign in again.
-
-<hr/>
-
+Delete the empty Velora folder from the location where it was originally placed.
 <br/>
 
+### Step 6
+Restart your computer and sign in again.
+<hr/>
+<br/>
 
 ## In Task Sheduler (Hidden)
 
